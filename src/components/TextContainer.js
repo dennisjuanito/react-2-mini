@@ -14,7 +14,7 @@ export default class TextContainer extends Component {
       text: e.target.value
     })
   }
-
+style ="color , , "
   render() {
     return (
       <div className="textContainer">
